@@ -57,7 +57,7 @@
     min-height: 92vh;
 }
 .demo-header-image{
-    background-image: url('../paper_img/city.jpg');
+    background-image: url('../city.jpg');
 }
 .demo-header .motto{
     color: #FFFFFF;
